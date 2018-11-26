@@ -8,8 +8,8 @@ from pygame.locals import *
 
 # Define
 block_size = 17 # Height, width of single block
-width = 10 # Board width
-height = 20 # Board height
+width = 20 # Board width
+height = 40 # Board height
 framerate = 30 # Bigger -> Slower
 
 pygame.init()
